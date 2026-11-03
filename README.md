@@ -14,8 +14,11 @@ We're building Nova to make WhatsApp more fun, useful, and powerful. This is whe
 
 ## 📋 Team
 
-* **Coming Soon!**
-
+* **Fiete**
+* **Adrian**
+* **Erik**
+* **Liam**
+* **Stormchaser Semih**
 ---
 
 **NOVA WHATSAPP BOT · BETA**
