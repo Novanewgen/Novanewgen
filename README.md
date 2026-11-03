@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🤖 Welcome to the Nova Team!
 
-<!--
-**Novanewgen/Novanewgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official home of the **Nova Team**! 🚀
 
-Here are some ideas to get you started:
+We're building Nova to make WhatsApp more fun, useful, and powerful. This is where you can meet the people behind the project and follow our journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👑 Owner
+
+* **Joshua** - Team Leadership
+
+## 🛠️ Development
+
+* **Valkyre** - Bot Developer
+
+## 📋 Team
+
+* **Coming Soon!**
+
+---
+
+**NOVA WHATSAPP BOT · BETA**
+*Built with passion. Powered by Nova.*
