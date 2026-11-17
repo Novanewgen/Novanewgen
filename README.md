@@ -15,7 +15,7 @@ We're building Nova to make WhatsApp more fun, useful, and powerful. This is whe
 ## 📋 Team
 
 * **Fiete**
-* **Adrian**
+* **Philipp OG**
 * **Erik**
 * **Liam**
 * **Stormchaser Semih**
